@@ -59,4 +59,43 @@ Ubicado en el repositorio complementario:
 |                         Core Legal Data Sources                      |
 |----------------------------------------------------------------------|
 
+---
+
+## Casos de uso
+
+- Generación automatizada de contratos y dictámenes.
+- Construcción de matrices de cumplimiento.
+- Auditoría de procesos legales.
+- Integración con IA para análisis avanzado.
+- Estandarización documental en despachos y consultorías.
+
+---
+
+## Roadmap general
+
+- Integración completa con el Compliance Engine.
+- Creación de plantillas dinámicas avanzadas.
+- Implementación de API pública.
+- Módulo de trazabilidad y auditoría.
+- Integración con Claude para análisis normativo inteligente.
+- Expansión del ecosistema con plugins jurídicos.
+
+---
+
+## Contribuciones
+
+Este proyecto busca construir una comunidad legal-tech en español.  
+Se aceptan contribuciones en:
+
+- documentación  
+- plantillas  
+- análisis normativo  
+- módulos técnicos  
+- ejemplos prácticos  
+
+---
+
+## Licencia
+
+MIT License.
 
